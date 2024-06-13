@@ -1,3 +1,6 @@
 [submodule "data/statsbomb-open-data"]
 	path = data/statsbomb-open-data
 	url = https://github.com/ilhamga/open-data
+[submodule "data/wyscout-event-data"]
+	path = data/wyscout-event-data
+	url = https://github.com/ilhamga/wyscout-soccer-match-event-dataset
